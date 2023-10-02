@@ -1,0 +1,14 @@
+p, h2 {
+    color: black
+}
+
+.text {
+    border: 5px outset limegreen;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
